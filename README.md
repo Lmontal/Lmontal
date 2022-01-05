@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Luke from Vancouver 
+- 👀 I’m interested in creative coding
+- 🌱 I’m currently learning Js
+- 💞️ I’m looking to collaborate on art
+- 📫 How to reach me Lmontalbetti@hotmail.ca!
